@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sanil Sandeep</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kasuniwijesiri&label=Profile%20views&color=0e75b6&style=flat" alt="kasuniwijesiri" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanil-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="sanil-sandeep"> </p>
 
 
 <br><br>
