@@ -8,9 +8,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanil-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="sanil-sandeep"> </p>
 
 
-<br><br>
 
-<picture> <img align="right" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg" width = 400px></picture>
+
+
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 🔭 I’m currently working on **Saloon management system**
@@ -22,6 +22,8 @@
 - 📫 How to reach me **sanil.sandeep001@gmail.com**
 
 - ⚡ Fun fact **Call me as Sanil**
+
+<picture> <img align="right" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg" width = 400px></picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
