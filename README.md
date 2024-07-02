@@ -3,12 +3,14 @@
 <h1 align="center">Hi 👋, I'm Sanil Sandeep</h1>
 <h3 align="center">A passionate frontend developer from Srilanka</h3>
 
+<br><br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanil-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="sanil-sandeep"> </p>
 
 
 <br><br>
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+<picture> <img align="right" src="https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?size=626&ext=jpg" width = 400px></picture>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 - 🔭 I’m currently working on **Saloon management system**
