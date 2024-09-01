@@ -33,13 +33,15 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sanil-sandeep&theme=dark&show_icons=true&count_private=true" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanil-sandeep&show_icons=true&locale=en&theme=dark" alt="sanil-sandeep" /></p>
+
   <br></br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanil-sandeep&theme=dark" alt="sanil-sandeep" />
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sanil-sandeep&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanil-sandeep&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="sanil-sandeep" /></p>
+
   
   </td>
 </tr>
