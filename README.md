@@ -33,7 +33,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanil-sandeep&show_icons=true&locale=en&theme=dark" alt="sanil-sandeep" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanil-Sandeep&show_icons=true&locale=en&theme=dark" alt="Sanil-Sandeep" /></p>
 
   <br></br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanil-Sandeep&theme=dark" alt="Sanil-Sandeep" />
