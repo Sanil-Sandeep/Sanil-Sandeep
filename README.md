@@ -9,7 +9,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
   
-- 🔭 I’m currently working on **Food Ordering System**
+- 🔭 I’m currently working on **Chat app**
   
 -  🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
